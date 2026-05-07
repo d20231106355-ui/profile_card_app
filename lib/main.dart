@@ -96,9 +96,9 @@ class ProfilePage extends StatelessWidget {
                     ),
                     const SizedBox(height: 8),
 
-                    // Location & Experience
+                    // Date of Birth & State
                     const Text(
-                      'UPSI, Malaysia | 3rd Year',
+                      '30/04/2003 | Malacca',
                       style: TextStyle(
                         fontSize: 14,
                         color: Colors.grey,
